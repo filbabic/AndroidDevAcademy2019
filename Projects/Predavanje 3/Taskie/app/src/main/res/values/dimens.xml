@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="match_constraint">0dp</dimen>
+    <dimen name="textSizeHeading">26sp</dimen>
+    <dimen name="marginLarge">12dp</dimen>
+    <dimen name="detailsPriorityWidth">100dp</dimen>
+    <dimen name="detailsPriorityHeight">100dp</dimen>
+</resources>
